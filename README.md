@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m working on my GitHub profile, making it presentable and uploading tasks I've completed at Arcada University of Applied Sciences.
+
+I would say my most fluent coding language is Python, focusing on data analysis. I am not as good as I want to be, but I will work hard to reach my goal.
+
 <!--
 **sebByte/sebByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
