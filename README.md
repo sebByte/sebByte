@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I’m working on my GitHub profile, making it presentable and uploading tasks I've completed at Arcada University of Applied Sciences.
+This profile contains only one of several tasks I've completed during my studies at Arcada University of Applied Sciences.
+So, not much to see here to be honest.
 
 <!--
 **sebByte/sebByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
