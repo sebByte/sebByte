@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 This profile contains only one of several tasks I've completed during my studies at Arcada University of Applied Sciences.
+
 So, not much to see here to be honest.
 
 <!--
